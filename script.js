@@ -12,3 +12,12 @@ var symArr = sym.split("");
 //  Prompt message for user
 
 window.alert("Welcome! Please click 'Generate password' to start!");
+
+// Set dynamic variables
+
+var Totlength = prompt("How many characters would you like your password to be?");
+
+if(Totlength <8 || Totlength > 128){
+    alert("It is recommended to have a password between 8 and 128 characters long!\nPlease start over.");
+}
+
