@@ -9,4 +9,4 @@ A website that generates a unique password for users with selected criteria.
 *Javascript 
 
 # Website
-https://kemar117.github.io/generate-password/
+https://kemar117.github.io/generate-password-js/
