@@ -7,3 +7,6 @@ A website that generates a unique password for users with selected criteria.
 *HTML
 *CSS
 *Javascript 
+
+# Website
+https://kemar117.github.io/generate-password/
