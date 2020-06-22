@@ -13,7 +13,6 @@ var symArr = sym.split("");
 
 window.alert("Welcome! Please click 'Generate password' to start!");
 
-// Set dynamic variables
 
 var Totlength = prompt("How many characters would you like your password to be?");
 
